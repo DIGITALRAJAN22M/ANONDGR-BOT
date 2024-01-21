@@ -5,6 +5,8 @@ I HAVE CREATED AN BOT USING PYTHON . by which you can automate your tasks such a
    
 #   requirements:
            python (latest version above 3.12.1)
+# Limitation:
+      only works of windows 
 #   installation:
          pip install SpeechRecognition
          pip install pyttsx3

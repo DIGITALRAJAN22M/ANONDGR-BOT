@@ -10,6 +10,8 @@ I HAVE CREATED AN BOT USING PYTHON . by which you can automate your tasks such a
 #   installation:
          pip install SpeechRecognition
          pip install pyttsx3
+         pip install pypiwin32
+         python -m distutils
          pip install --upgrade SpeechRecognition
          pip install --upgrade pyttsx3
          git clone https://github.com/DIGITALRAJAN22M/ANONDGR-BOT/
